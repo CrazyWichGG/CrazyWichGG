@@ -1,13 +1,19 @@
 # 👋 Profile
 HI! I am @CrazyWichGG.
+I'm thai people so my english is not that good.
+I'm only 15 years old.
 
-I'm thai people so my english is really bad.
+I'm doing a minecraft stuff such as datapacks or addons(for bedrock edition). 
 
-I'm 15 and yes, I'm still young.
+I hope you like it.
 
-# 🌐 My social
+I don't know what should I put here. ;-;
+
+## 🌐 My social
 [[ Youtube ](https://www.youtube.com/c/CrazyWichGG)]
+
 [[ Twitter ](https://twitter.com/crazywichgg)]
+
 [[ Twitch ](https://www.twitch.tv/crazywichgg)]
 
 <!---
