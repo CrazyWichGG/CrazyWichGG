@@ -10,11 +10,11 @@ I hope you like it.
 I don't know what should I put here. ;-;
 
 ## 🌐 My social
-[[ Youtube ](https://www.youtube.com/c/CrazyWichGG)]
+[Youtube](https://www.youtube.com/c/CrazyWichGG)
 
-[[ Twitter ](https://twitter.com/crazywichgg)]
+[Twitter](https://twitter.com/crazywichgg)
 
-[[ Twitch ](https://www.twitch.tv/crazywichgg)]
+[Twitch](https://www.twitch.tv/crazywichgg)
 
 <!---
 CrazyWichGG/CrazyWichGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
