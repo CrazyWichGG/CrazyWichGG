@@ -10,6 +10,8 @@ I hope you like it.
 I don't know what should I put here. ;-;
 
 ## 🌐 My social
+[My Website](https://www.crazywichgg.tk)
+
 [Youtube](https://www.youtube.com/c/CrazyWichGG)
 
 [Twitter](https://twitter.com/crazywichgg)
