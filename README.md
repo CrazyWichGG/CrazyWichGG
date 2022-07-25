@@ -1,5 +1,5 @@
 # 👋 Profile
-HI! I am @CrazyWichGG.
+HI! I am CrazyWichGG.
 I'm thai people so my english is not that good.
 I'm only 15 years old.
 
