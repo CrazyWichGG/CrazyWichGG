@@ -18,6 +18,8 @@ I don't know what should I put here. ;-;
 
 * Java
 
+* C
+
 * C++
 
 * Javascript
