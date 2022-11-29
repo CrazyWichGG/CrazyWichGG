@@ -1,6 +1,6 @@
 # 👋 Profile
 HI! I am CrazyWichGG.
-I'm thai people so my english is not that good.
+I'm Thai people so my english is not that good.
 I'm only 15 years old.
 
 I'm doing a minecraft stuff such as datapacks or addons(for bedrock edition). 
