@@ -45,3 +45,5 @@ I'm a student who really interested in coding. The reason is from a game called 
 📷 Instagram: [crazywichgg](https://www.instagram.com/crazywichgg)
 
 🕊️ Twitter: [@crazywichgg](https://www.twitter.com/crazywichgg)
+
+🔷 Discord: [CrazyWichGG#4184](https://discord.com/app)
