@@ -3,7 +3,7 @@
 # 👋 Hello
 I'm a student who really interested in coding. The reason is from a game called Minecraft, it's quite a long story tho.
 
-* 😎  My name's is Tonnam but you can call me "Wich"
+* 😎  My name is Tonnam but you can call me "Wich"
 * 💬  My pronouns is he / him
 * 🌍  I'm based in Mae Hong Son, Thailand
 * 🧠  I'm currently learning Python HTML CSS Javascript
