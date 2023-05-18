@@ -1,5 +1,3 @@
-### PS: ใครมาจากคำใบ้ = โคตรเจ๋ง
-
 # 👋 Hello
 I'm a student who really interested in coding. The reason is from a game called Minecraft, it's quite a long story tho.
 
