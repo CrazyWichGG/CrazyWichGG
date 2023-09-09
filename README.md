@@ -10,8 +10,10 @@ I'm a student who really interested in coding. The reason is from a game called 
 **NOTE:** I'm just a high school student. I only know the basics.
 * Python
 * Html
-* Css
+* CSS
 * Javascript
+* PHP
+* SQL
 * Nodejs
 
 
