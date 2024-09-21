@@ -1,12 +1,12 @@
 ```
-📌 ถึงคณะกรรมการทุนท่าน ขณะนี้โดเมน crazywichgg.xyz และทุกๆซับโดเมน กำลังมีปัญหาในเรื่องการต่ออายุ ขออภัยในความไม่สะดวก
+📌 เรียนคณะกรรมการทุนท่าน ขณะนี้โดเมน crazywichgg.xyz และทุกๆซับโดเมน กำลังมีปัญหาในเรื่องการต่ออายุ ขออภัยในความไม่สะดวก
 ```
 
 # 👋 Hello
 I'm a student who really interested in coding. The reason is from a game called Minecraft, it's quite a long story tho.
 
 * 😎  My name is Tonnam but you can call me "Wich"
-* 💬  My pronouns is he / him
+* 💬  My pronouns is he/him
 * 🌍  I'm based in Mae Hong Son, Thailand
 * 🧠  I'm currently learning ~~Python HTML CSS Javascript~~ how to get rid of my laziness.
 
