@@ -44,11 +44,11 @@ I'm a student who really interested in coding. The reason is from a game called 
 
 ## 📫 Contact
 ✉️ Email: [sandwich.ritthakreklai@gmail.com](mailto:sandwich.ritthakreklai@gmail.com)
-
+<!--
 🔤 Facebook: [Kantawit Ritthakreklai](https://www.facebook.com/kantawit.ritthakreklai.5/)
 
 📷 Instagram: [crazywichgg](https://www.instagram.com/crazywichgg)
-
-🕊️ Twitter: [@crazywichgg](https://www.twitter.com/crazywichgg)
+-->
+✖️ X: [@crazywichgg](https://www.twitter.com/crazywichgg)
 
 🔷 Discord: [crazywichgg](https://discord.com/app)
