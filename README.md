@@ -1,7 +1,3 @@
-```
-📌 ขณะนี้โดเมน crazywichgg.xyz สามารถเข้าถึงได้แล้ว ขออภัยในความไม่สะดวก
-```
-
 # 👋 Hello
 I'm a student who really interested in coding. The reason is from a game called Minecraft, it's quite a long story tho.
 
@@ -11,7 +7,6 @@ I'm a student who really interested in coding. The reason is from a game called 
 * 🧠  I'm currently learning ~~Python HTML CSS Javascript~~ how to get rid of my laziness.
 
 ## 🖥️ Skills
-**NOTE:** I'm just a high school student. I only know the basics.
 * Python
 * Html
 * CSS
