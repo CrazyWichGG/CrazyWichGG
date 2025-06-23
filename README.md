@@ -1,7 +1,7 @@
 # 👋 Hello
 I'm a student who really interested in coding. The reason is from a game called Minecraft, it's quite a long story tho.
 
-* 😎  My name is Tonnam but you can call me "Wich"
+* 😎  Just call me "Wich"
 * 💬  My pronouns is he/him
 * 🌍  I'm based in Mae Hong Son, Thailand
 * 🧠  I'm currently learning ~~Python HTML CSS Javascript~~ how to get rid of my laziness.
@@ -37,13 +37,15 @@ I'm a student who really interested in coding. The reason is from a game called 
 <a href="http://www.github.com/crazywichgg"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=crazywichgg&bg_color=181824&color=ffffff&line=3382ed&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 -->
 
+<!--
 ## 📫 Contact
 ✉️ Email: [sandwich.ritthakreklai@gmail.com](mailto:sandwich.ritthakreklai@gmail.com)
 
 🔤 Facebook: [Kantawit Ritthakreklai](https://www.facebook.com/kantawit.ritthakreklai/)
-<!--
+
 📷 Instagram: [crazywichgg](https://www.instagram.com/crazywichgg)
--->
+
 ✖️ X: [@crazywichgg](https://www.twitter.com/crazywichgg)
 
 🔷 Discord: [crazywichgg](https://discord.com/app)
+-->
